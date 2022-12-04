@@ -1,1 +1,0 @@
-# oss-react-component-template
