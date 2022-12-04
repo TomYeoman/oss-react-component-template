@@ -1,3 +1,4 @@
-import MyCounter from './components/App'
+import MyCounter from "./components/App";
 
-export { MyCounter }
+// This will be imported by the consumer
+export { MyCounter };
