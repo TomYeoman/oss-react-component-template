@@ -2089,11 +2089,6 @@ msgpackr@^1.5.4:
   optionalDependencies:
     msgpackr-extract "^2.2.0"
 
-my-react-typescript-package@^1.0.0:
-  version "1.0.0"
-  resolved "https://registry.yarnpkg.com/my-react-typescript-package/-/my-react-typescript-package-1.0.0.tgz#e8c00c21bec5ac2f2f631a00a569b7b050d1bcb9"
-  integrity sha512-QYyexFl7zQ9H6HOrERhpS/pG8jfFB1M9ViroYYeGbZ0hu78PJWJZaRwAAa9QbouYSYV/nHQMBr2mqS6YBMF++g==
-
 natural-compare-lite@^1.4.0:
   version "1.4.0"
   resolved "https://registry.yarnpkg.com/natural-compare-lite/-/natural-compare-lite-1.4.0.tgz#17b09581988979fddafe0201e931ba933c96cbb4"
@@ -2224,6 +2219,11 @@ ordered-binary@^1.2.4:
   version "1.4.0"
   resolved "https://registry.yarnpkg.com/ordered-binary/-/ordered-binary-1.4.0.tgz#6bb53d44925f3b8afc33d1eed0fa15693b211389"
   integrity sha512-EHQ/jk4/a9hLupIKxTfUsQRej1Yd/0QLQs3vGvIqg5ZtCYSzNhkzHoZc7Zf4e4kUlDaC3Uw8Q/1opOLNN2OKRQ==
+
+oss-react-component-template@^1.1.0:
+  version "1.1.0"
+  resolved "https://registry.yarnpkg.com/oss-react-component-template/-/oss-react-component-template-1.1.0.tgz#8e120ae8316f625846b535a40ba19389be1df900"
+  integrity sha512-k/urOf3G46ZCTXjdSvHHG0JkjTPnFSxpoXJP3k1G5+HqvNRecz7bLLyjInRIVAs3NFokIGRKpEeb5ORqbSy7ug==
 
 p-limit@^3.0.2:
   version "3.1.0"

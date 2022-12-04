@@ -29,7 +29,7 @@
     "eslint-plugin-prettier": "^4.2.1",
     "eslint-plugin-react": "^7.31.11",
     "eslint-plugin-react-hooks": "^4.6.0",
-    "my-react-typescript-package": "^1.0.0",
+    "oss-react-component-template": "^1.1.0",
     "parcel": "^2.8.0",
     "prettier": "^2.8.0",
     "process": "^0.11.10",
