@@ -58,5 +58,3 @@ root.render(
 [github-build]: https://github.com/gapon2401/oss-react-component-template/actions/workflows/publish.yml/badge.svg
 [github-build-url]: https://github.com/gapon2401/oss-react-component-template/actions/workflows/publish.yml
 [npm-typescript]: https://img.shields.io/npm/types/oss-react-component-template
-
-Test
